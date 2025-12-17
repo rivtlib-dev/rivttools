@@ -1,2 +1,2 @@
 # rivttools
-scripts and markup that work with the rivt tools API
+scripts and data that work with the rivt Tools API
